@@ -8,3 +8,4 @@
   - `git add .`
 - connect remote repository
   - `git remote add origin https://github.com/AlonaCh/GHtesting.git`
+- conflict
