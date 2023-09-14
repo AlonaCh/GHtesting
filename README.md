@@ -10,3 +10,5 @@
   - `git remote add origin https://github.com/AlonaCh/GHtesting.git`
 - conflict
 - How to avoid conflicts
+- Merge conflicts
+  `if a local progect better git push --force origin main, and it overwrites file in GitHub`
